@@ -1,4 +1,4 @@
-/*eslint no-restricted-globals: ["warn", "event", "fdescribe"]*/
+
 import React from 'react';
 import { Link } from 'react-router-app';
 import axios from 'axios';
